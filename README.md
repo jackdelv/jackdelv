@@ -4,7 +4,7 @@ is a lot of great technology out there that is open source and I would love to b
 - 🌱 I’m currently studying computer engineering at Miami University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-Email: jackdelv39@gmail.com
+Email: jackdelv39@gmail.com \n
 <a href="https://www.linkedin.com/in/jack-del-vecchio-38014621a/">LinkedIn</a>
 
 
